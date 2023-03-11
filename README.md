@@ -2,9 +2,7 @@
 
 
 
-I'm a computer science engineer who is passionate about front-end web development with some interest in UI/UX design. Some technologies I enjoy working with
-includes HTML CSS JavaScript React native, tools : figma, vs codes, git, etc. 
+I'm a computer science engineer who is passionate about MERN stack development. I have a strong background in technologies like HTML CSS Bootstrap JavaScript React, Django, python tools : figma, vs codes, git, etc. I am a innovative problem solver who loves to solve coding problems and explore new technologies.
 
-currently improving my React skills.
 
 
